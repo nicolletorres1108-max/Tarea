@@ -1,0 +1,12 @@
+C:\Users\anahi\OneDrive\Desktop\Tareas\Eventosenlaforma\Eventosenlaforma\bin\Debug\Eventosenlaforma.exe.config
+C:\Users\anahi\OneDrive\Desktop\Tareas\Eventosenlaforma\Eventosenlaforma\bin\Debug\Eventosenlaforma.exe
+C:\Users\anahi\OneDrive\Desktop\Tareas\Eventosenlaforma\Eventosenlaforma\bin\Debug\Eventosenlaforma.pdb
+C:\Users\anahi\OneDrive\Desktop\Tareas\Eventosenlaforma\Eventosenlaforma\obj\Debug\Eventosenlaforma.csproj.AssemblyReference.cache
+C:\Users\anahi\OneDrive\Desktop\Tareas\Eventosenlaforma\Eventosenlaforma\obj\Debug\Eventosenlaforma.Form1.resources
+C:\Users\anahi\OneDrive\Desktop\Tareas\Eventosenlaforma\Eventosenlaforma\obj\Debug\Eventosenlaforma.Properties.Resources.resources
+C:\Users\anahi\OneDrive\Desktop\Tareas\Eventosenlaforma\Eventosenlaforma\obj\Debug\Eventosenlaforma.csproj.GenerateResource.cache
+C:\Users\anahi\OneDrive\Desktop\Tareas\Eventosenlaforma\Eventosenlaforma\obj\Debug\Eventosenlaforma.csproj.CoreCompileInputs.cache
+C:\Users\anahi\OneDrive\Desktop\Tareas\Eventosenlaforma\Eventosenlaforma\obj\Debug\Eventosenlaforma.exe
+C:\Users\anahi\OneDrive\Desktop\Tareas\Eventosenlaforma\Eventosenlaforma\obj\Debug\Eventosenlaforma.pdb
+C:\Users\anahi\OneDrive\Desktop\Tareas\Eventosenlaforma\Eventosenlaforma\obj\Debug\Eventosenlaforma.TextBox.resources
+C:\Users\anahi\OneDrive\Desktop\Tareas\Eventosenlaforma\Eventosenlaforma\obj\Debug\Eventosenlaforma.TextBox_valores_númericos.resources
