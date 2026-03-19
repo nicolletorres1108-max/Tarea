@@ -16,5 +16,14 @@ namespace Eventosenlaforma
         {
             InitializeComponent();
         }
+        private void TextBox_Load(object sender, EventArgs e)
+        {
+            lblmensaje.Text = "";
+        }
+
+        private void btnsaludo_Click(object sender, EventArgs e)
+        {
+         lblmensaje.Text = txtnombre.Text + " es el nombre, ¡Hola!";
+        }
     }
 }
